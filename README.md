@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Hello, my name is Yingshan Qu. 
+I'm Yingshan Qu, a proud alumnus of Northeastern University, specialized in front-end web development with a strong passion for crafting intricate and responsive user interfaces.
 
-🔭 I recently graduated with a master's degree in Northeastern University, and I am currently studying React to further develop my skills in front-end web development.
+🔭 My journey in front-end development is marked by a portfolio of projects demonstrating my commitment to developing engaging user experiences. With a deep understanding of React, I excel in UI development, leveraging React Hooks and Redux for effective state management. My expertise extends to creating advanced animations and implementing secure authentication methods.
 
-🌱 I am passionate about creating engaging and user-friendly websites that meet the needs of businesses and users alike. I am confident in my ability to write clean and efficient code and have experience with popular front-end technologies such as HTML, CSS, and JavaScript.
+🌱 Beyond front-end, I am also skilled in backend API development using Node.js, and proficient in managing databases with MongoDB. This blend of front and backend skills enables me to offer a comprehensive development approach, ensuring smooth, secure, and dynamic user experiences.
 
-👯 I am actively seeking opportunities to apply my skills in a professional setting and am excited about the prospect of working with a team of experienced developers who can help me continue to learn and grow in this field. 
+👯 Having worked in diverse team environments, I thrive in collaborative settings where I can apply my skills and continue to grow. I specialize in crafting fluid user navigation and adeptly managing data in real-time environments.
 
-📫 If you are interested in learning more about my profile or have any job openings you think I would be a good fit for, please feel free to contact me at **quying333@gmail.com**.
+📫 I am eager to bring my expertise to a professional setting where I can contribute to meaningful projects and collaborate with experienced developers. If my profile aligns with your needs or you have opportunities where my skills can shine, please feel free to reach out to me at**quying333@gmail.com**.
 
